@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:200");
+
+:root {
+  --base-bg-color: "0f0f1a";
+}
+
+.main-body-style {
+  background-color: var(--base-bg-color);
+  overflow: hidden;
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+}
